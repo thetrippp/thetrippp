@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thetrippp
-- 👀 I’m interested in Procedural Generation, FPS and Pixel Art
-- 🌱 I’m currently learning Unreal, Procedural Generation techniues
-- 💞️ I’m looking to collaborate on Game Jams
+- 👀 I’m interested in Procedural Generation, FPS and Pixel Art.
+- 🌱 I’m currently learning Unreal, Procedural Generation techniques.
+- 💞️ I’m looking to collaborate on Game Jams or making games in general.
 - 📫 How to reach me on Instagram @ragikanji or Discord @trippp#4854
 
 <!---
