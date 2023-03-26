@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thetrippp
+- 👋 Hi, I’m Raghav Suriyashekar.
 - 👀 I’m interested in Procedural Generation, FPS and Pixel Art.
 - 🌱 I’m currently learning Unity, Unreal, Godot, Procedural Generation techniques.
 - 💞️ I’m looking to collaborate on Game Jams or making games in general.
