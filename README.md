@@ -8,5 +8,3 @@
 thetrippp/thetrippp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img src="https://github.com/thetrippp/CSGO-2-Responsive-Smokes/blob/main/CSGOResponsiveSmokes1.gif">
