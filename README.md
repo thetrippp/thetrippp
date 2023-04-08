@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghav Suriyashekar.
-- 👀 I’m interested in Procedural Generation, FPS and Pixel Art.
-- 🌱 I’m currently learning Unity, Unreal, Godot, Procedural Generation techniques.
+- 👀 Procedural Generation, Shaders and Pixel Art are my jam.
+- 🌱 Learning Unity, Unreal, Godot, Procedural Generation techniques.
 - 💞️ I’m looking to collaborate on Game Jams or making games in general.
 - 📫 How to reach me on Instagram @ragikanji or Discord @trippp#4854
 
