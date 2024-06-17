@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raghav Suriyashekar.
-- 👀 Procedural Generation, Shaders and Pixel Art are my jam.
+- 👀 Procedural Generation, Shaders, Gameplay and Mechanics are my jam.
 - 🌱 Learning Unity, Unreal, Godot, Procedural Generation techniques.
 - 💞️ I’m looking to collaborate on Game Jams or making games in general.
 - 📫 How to reach me on Instagram @ragikanji or Discord @thetrippp
